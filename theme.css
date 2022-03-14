@@ -1,0 +1,140 @@
+ <!DOCTYPE html>
+  <html>
+  <head>
+  <style>
+  p {
+    color: #8400ff;
+    text-align: right;
+  } 
+  </style>
+  </head>
+
+<title> ALBERT WEBPAGE </title> 
+
+<h1> Webpaeg </h1>
+</style>                                                                                                                             
+<head>
+  <style>
+    h1{
+       font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+    </style>
+</head> 
+<p>Welcome to Albert Website.</p> 
+<p> Asare Baffour Albert is my name.I was born in Akim Oda Government Hospital, and also I’m 22 years of age,we are three in number but am the second born in my family.
+<P> I grew up in a town called Akim Oda.later in adolescence stage, I was an active member of my Junior High School committe. After completing my Junior educarion, i continued my education to the Senior High level which was Oti Boateng Senior High School.</p> 
+<p> I was discipline in terms of learning and in carry my day to day activities. After my completion in the Senior High School, i applied for an admission to enroll into the University of Ghana.</P>
+<p> I am currently in University of Ghana offering Bsc in Information Technology(I.T). My main goal gis to become someone who is well vasted in technology so that i will be able to adopt myself into the system. 
+<p> The main purpose why I want to pursue a degree in Bsc in Infomation Technology at the University of Ghana is that; i will be able to help others in the society.
+<p> Hence, I study hard because without a degree I can not achieve these purpose.
+ </p>
+
+<img width="100" src=IMG_20200901_103642.png Align="left" >
+<h2> This section is about my educational information </h2>
+<head>
+  <style>
+    h2
+    {font-family: monospace;
+    }
+  </style>
+</head> 
+<table style="width:200" border="2">
+<h1> 
+  <head>
+    <style>
+    td{
+      color: #ff009d;
+    } 
+    </style>
+    </head>  
+   
+    <th colspan="1"
+    <th>Institution</th>
+    <th>Courses</th>
+    <th>Duration</th>
+  
+    <h>
+</tr>
+<tr>
+  <head>
+    <style>
+      th{
+        font-family: monospace;
+
+      }
+    </style>
+  </head>
+    <td>Oda Ridge Experimental J.H.S</td>
+    <td>2013–2016</td>
+    
+</tr>
+  
+  <tr>
+      <td>Oti Boateng Senior High School</td>
+      <td>General Arts</td>
+      <td>2016-2019</td>
+  </tr>
+  <tr>
+    <td>University Of Ghana</td>
+    <td>Information Technology</td>
+    <td>2021 to date</td>
+  </tr>
+  </table>
+</body> 
+</html>
+  <head>
+    <style>
+      ul {
+      color:rgb(0, 255, 42);
+      }
+  </style>
+   
+
+ <h3>USER SIGNUP</h3>
+ <ul>
+    <head>
+      <style>
+    h3{
+      font-family: monospace;
+    }
+  </style>
+</head>
+
+  
+     <div>
+      <form
+        action="/action_page.php">
+          <li><label for="fname">First 
+          Name</label>
+          <input type="text" value="fname"
+          name="firstname"
+          placeholder="Your name..."></li>
+    
+          <li><label for="lname"> Last 
+          Name</label>
+          <input type="text" value="lname"
+          name="last name"
+          placeholder="Your name..."></li>
+    
+        <li><label for="age>"Your </label>
+          Age</label>
+               <select value="lage"
+         age="age" 
+         placeholder="age"
+                     <option value="18">18</option>
+                     <option value="19">19</option>
+                     <option value="">20</option></select>
+                     
+        <li><label for="telephone">Telephone Number</label>
+                     <input type="tel" id="lnumber"
+                     telephone="number" placeholder="your number...">
+                      
+                      <li><label
+                       for="Gender">Gender</label>
+                       <Select id="gender"
+                       name="gender">
+                       <option
+                       value="male">Male</option>
+                       <option 
+                       value="female">female</option>
+         </div>
